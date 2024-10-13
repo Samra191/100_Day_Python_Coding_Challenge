@@ -1,0 +1,17 @@
+{
+    "Erina": {
+        "name": "Erina",
+        "class": "BSCS",
+        "Year": "2012"
+    },
+    "Alex": {
+        "name": "Alex",
+        "class": "BSIT",
+        "Year": "2013"
+    },
+    "Maria": {
+        "name": "Maria",
+        "class": "BSSE",
+        "Year": "2014"
+    }
+}
